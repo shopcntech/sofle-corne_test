@@ -1,0 +1,15 @@
+{
+  "layout": {
+    "label": "Corne",
+    "matrix": {
+      "rows": 4,
+      "cols": 6
+    },
+    "layers": [
+      ["TAB", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "BSPC",
+       "ESC", "A", "S", "D", "F", "G", "H", "J", "K", "L", ";", "'",
+       "LSHFT", "Z", "X", "C", "V", "B", "N", "M", ",", ".", "/", "RSHFT",
+       "LCTRL", "LALT", "LGUI", "LOWER", "SPACE", "", "", "RAISE", "RGUI", "RALT", "RCTRL", "ENTER"]
+    ]
+  }
+}
